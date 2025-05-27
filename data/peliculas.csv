@@ -1,0 +1,320 @@
+id,title,genre,year,rating
+1,Sueno de fuga,Drama,1994,9.3
+2,El padrino,Crimen,1972,9.2
+3,The Dark Knight,Accion,2008,9.0
+4,Pulp Fiction,Crimen,1994,8.9
+5,Forrest Gump,Drama,1994,8.8
+6,El origen,Ciencia ficcion,2010,8.8
+7,Matrix,Ciencia ficcion,1999,8.7
+8,Buenos muchachos,Crimen,1990,8.7
+9,El silencio de los inocentes,Thriller,1991,8.6
+10,Interestelar,Ciencia ficcion,2014,8.6
+11,Gladiador,Accion,2000,8.5
+12,El club de la pelea,Drama,1999,8.8
+13,El senor de los anillos: La comunidad del anillo,Fantasia,2001,8.8
+14,El senor de los anillos: Las dos torres,Fantasia,2002,8.7
+15,El senor de los anillos: El retorno del rey,Fantasia,2003,8.9
+16,La lista de Schindler,Drama,1993,8.9
+17,Wifi Ralph,Animacion,2018,7.0
+18,Los infiltrados,Crimen,2006,8.5
+19,El gran truco,Drama,2006,8.5
+20,El rey leon,Animacion,1994,8.5
+21,Avatar,Ciencia ficcion,2009,7.8
+22,La vida es bella,Drama,1997,8.6
+23,El caballero oscuro: La leyenda renace,Accion,2012,8.4
+24,Los vengadores,Accion,2012,8.0
+25,Guardianes de la galaxia,Ciencia ficcion,2014,8.0
+26,El gran Gatsby,Drama,2013,7.2
+27,La llegada,Ciencia ficcion,2016,7.9
+28,El lobo de Wall Street,Drama,2013,8.2
+29,La teoria del todo,Drama,2014,7.7
+30,El juego de la imitacion,Drama,2014,8.0
+31,La forma del agua,Fantasia,2017,7.3
+32,Parásitos,Thriller,2019,8.6
+33,1917,Drama,2019,8.3
+34,Jojo Rabbit,Comedia,2019,7.9
+35,El irlandes,Crimen,2019,7.8
+36,Joker,Drama,2019,8.4
+37,Avengers: Endgame,Accion,2019,8.4
+38,Spider-Man: Un nuevo universo,Animacion,2018,8.4
+39,La La Land,Musical,2016,8.0
+40,Whiplash,Drama,2014,8.5
+41,Interestelar,Ciencia ficcion,2014,8.6
+42,El renacido,Drama,2015,8.0
+43,Spotlight,Drama,2015,8.1
+44,Room,Drama,2015,8.1
+45,El puente de los espias,Drama,2015,7.6
+46,La chica danesa,Drama,2015,7.1
+47,La habitacion,Drama,2015,8.1
+48,El marciano,Ciencia ficcion,2015,8.0
+49,Ex Machina,Ciencia ficcion,2014,7.7
+50,Blade Runner 2049,Ciencia ficcion,2017,8.0
+51,Logan,Accion,2017,8.1
+52,Deadpool,Accion,2016,8.0
+53,Doctor Strange,Ciencia ficcion,2016,7.5
+54,Black Panther,Accion,2018,7.3
+55,Thor: Ragnarok,Accion,2017,7.9
+56,Capitan America: Civil War,Accion,2016,7.8
+57,Ant-Man,Accion,2015,7.3
+58,Guardianes de la galaxia Vol. 2,Ciencia ficcion,2017,7.6
+59,Spider-Man: De regreso a casa,Accion,2017,7.4
+60,Wonder Woman,Accion,2017,7.4
+61,La bella y la bestia,Fantasia,2017,7.1
+62,Moana,Animacion,2016,7.6
+63,Coco,Animacion,2017,8.4
+64,Intensamente,Animacion,2015,8.1
+65,Zootopia,Animacion,2016,8.0
+66,Buscando a Dory,Animacion,2016,7.3
+67,Los increibles 2,Animacion,2018,7.6
+68,Toy Story 3,Animacion,2010,8.3
+69,Toy Story 4,Animacion,2019,7.7
+70,Up,Animacion,2009,8.2
+71,Wall-E,Animacion,2008,8.4
+72,Ratatouille,Animacion,2007,8.1
+73,Valiente,Animacion,2012,7.1
+74,Enredados,Animacion,2010,7.7
+75,Frozen,Animacion,2013,7.4
+76,Big Hero 6,Animacion,2014,7.8
+77,Los Croods,Animacion,2013,7.2
+78,Mi villano favorito,Animacion,2010,7.6
+79,Minions,Animacion,2015,6.4
+80,Shrek,Animacion,2001,7.9
+81,Shrek 2,Animacion,2004,7.2
+82,Kung Fu Panda,Animacion,2008,7.6
+83,Como entrenar a tu dragon,Animacion,2010,8.1
+84,El origen de los guardianes,Animacion,2012,7.3
+85,Hotel Transylvania,Animacion,2012,7.1
+86,La era de hielo,Animacion,2002,7.5
+87,Madagascar,Animacion,2005,6.9
+88,Vecinos invasores,Animacion,2006,6.6
+89,Monsters Inc,Animacion,2001,8.1
+90,Monsters University,Animacion,2013,7.2
+91,Buscando a Nemo,Animacion,2003,8.1
+92,El espantatiburones,Animacion,2004,6.0
+93,Los simpsons: la pelicula,Animacion,2007,7.3
+94,Pollitos en fuga,Animacion,2000,7.0
+95,El principe de Egipto,Animacion,1998,7.2
+96,El camino hacia El Dorado,Animacion,2000,6.9
+97,Spirit: el corcel indomable,Animacion,2002,7.2
+98,El castillo ambulante,Animacion,2004,8.2
+99,Mi vecino Totoro,Animacion,1988,8.2
+100,El viaje de Chihiro,Animacion,2001,8.6
+101,La princesa Mononoke,Animacion,1997,8.4
+102,Akira,Animacion,1988,8.0
+103,Your Name,Animacion,2016,8.4
+104,El niño y la bestia,Animacion,2015,7.7
+105,La tumba de las luciernagas,Animacion,1988,8.5
+106,Perfect Blue,Animacion,1997,8.0
+107,El castillo en el cielo,Animacion,1986,8.0
+108,Nausicaa del valle del viento,Animacion,1984,8.0
+109,Porco Rosso,Animacion,1992,7.7
+110,Kiki: entregas a domicilio,Animacion,1989,7.8
+111,El viento se levanta,Animacion,2013,7.8
+112,La colina de las amapolas,Animacion,2011,7.4
+113,El recuerdo de Marnie,Animacion,2014,7.7
+114,Arrietty y el mundo de los diminutos,Animacion,2010,7.6
+115,El cuento de la princesa Kaguya,Animacion,2013,8.0
+116,La guerra de los mapaches,Animacion,1994,7.3
+117,La colina de las amapolas,Animacion,2011,7.4
+118,El castillo de Cagliostro,Animacion,1979,7.6
+119,La isla de los perros,Animacion,2018,7.9
+120,Coraline,Animacion,2009,7.7
+121,El extraño mundo de Jack,Animacion,1993,8.0
+122,Frankenweenie,Animacion,2012,6.9
+123,El cadaver de la novia,Animacion,2005,7.3
+124,La novia cadaver,Animacion,2005,7.3
+125,Los mundos de Coraline,Animacion,2009,7.7
+126,El gigante de hierro,Animacion,1999,8.0
+127,El planeta del tesoro,Animacion,2002,7.2
+128,Atlantis: el imperio perdido,Animacion,2001,6.9
+129,El emperador y sus locuras,Animacion,2000,7.4
+130,Lilo y Stitch,Animacion,2002,7.3
+131,Hercules,Animacion,1997,7.3
+132,El jorobado de Notre Dame,Animacion,1996,7.0
+133,El rey leon 2,Animacion,1998,6.5
+134,Aladdin,Animacion,1992,8.0
+135,La sirenita,Animacion,1989,7.6
+136,La bella durmiente,Animacion,1959,7.2
+137,Blanca Nieves y los siete enanitos,Animacion,1937,7.6
+138,La cenicienta,Animacion,1950,7.3
+139,Peter Pan,Animacion,1953,7.3
+140,Alicia en el pais de las maravillas,Animacion,1951,7.4
+141,101 dalmatas,Animacion,1961,7.2
+142,El libro de la selva,Animacion,1967,7.6
+143,Robin Hood,Animacion,1973,7.6
+144,Los aristogatos,Animacion,1970,7.1
+145,La dama y el vagabundo,Animacion,1955,7.3
+146,La espada en la piedra,Animacion,1963,7.2
+147,Los rescatadores,Animacion,1977,6.9
+148,Oliver y su pandilla,Animacion,1988,6.7
+149,Basil el raton superdetective,Animacion,1986,7.2
+150,El zorro y el sabueso,Animacion,1981,7.2
+151,La gran aventura de Winnie Pooh,Animacion,1977,7.6
+152,El caldero magico,Animacion,1985,6.4
+153,Los tres caballeros,Animacion,1944,6.4
+154,Saludos amigos,Animacion,1942,6.1
+155,Fantasia,Animacion,1940,7.7
+156,Dumbo,Animacion,1941,7.2
+157,Bambi,Animacion,1942,7.3
+158,Pinocho,Animacion,1940,7.5
+159,La dama y el vagabundo 2,Animacion,2001,5.8
+160,El rey leon 3,Animacion,2004,6.5
+161,El planeta del tesoro,Animacion,2002,7.2
+162,Atlantis: el imperio perdido,Animacion,2001,6.9
+163,El emperador y sus locuras,Animacion,2000,7.4
+164,Lilo y Stitch,Animacion,2002,7.3
+165,Hercules,Animacion,1997,7.3
+166,El jorobado de Notre Dame,Animacion,1996,7.0
+167,El rey leon 2,Animacion,1998,6.5
+168,Aladdin,Animacion,1992,8.0
+169,La sirenita,Animacion,1989,7.6
+170,La bella durmiente,Animacion,1959,7.2
+171,Blanca Nieves y los siete enanitos,Animacion,1937,7.6
+172,La cenicienta,Animacion,1950,7.3
+173,Peter Pan,Animacion,1953,7.3
+174,Alicia en el pais de las maravillas,Animacion,1951,7.4
+175,101 dalmatas,Animacion,1961,7.2
+176,El libro de la selva,Animacion,1967,7.6
+177,Robin Hood,Animacion,1973,7.6
+178,Los aristogatos,Animacion,1970,7.1
+179,La dama y el vagabundo,Animacion,1955,7.3
+180,La espada en la piedra,Animacion,1963,7.2
+181,Los rescatadores,Animacion,1977,6.9
+182,Oliver y su pandilla,Animacion,1988,6.7
+183,Basil el raton superdetective,Animacion,1986,7.2
+184,El zorro y el sabueso,Animacion,1981,7.2
+185,La gran aventura de Winnie Pooh,Animacion,1977,7.6
+186,El caldero magico,Animacion,1985,6.4
+187,Los tres caballeros,Animacion,1944,6.4
+188,Saludos amigos,Animacion,1942,6.1
+189,Fantasia,Animacion,1940,7.7
+190,Dumbo,Animacion,1941,7.2
+191,Bambi,Animacion,1942,7.3
+192,Pinocho,Animacion,1940,7.5
+193,La dama y el vagabundo 2,Animacion,2001,5.8
+194,El rey leon 3,Animacion,2004,6.5
+195,El planeta del tesoro,Animacion,2002,7.2
+196,Atlantis: el imperio perdido,Animacion,2001,6.9
+197,El emperador y sus locuras,Animacion,2000,7.4
+198,Lilo y Stitch,Animacion,2002,7.3
+199,Hercules,Animacion,1997,7.3
+200,El jorobado de Notre Dame,Animacion,1996,7.0
+201,El viaje de Arlo,Animacion,2015,6.7
+202,Los Mitchell contra las maquinas,Animacion,2021,7.7
+203,Red,Animacion,2022,7.0
+204,Encanto,Animacion,2021,7.2
+205,Luca,Animacion,2021,7.4
+206,Un gran dinosaurio,Animacion,2015,6.7
+207,Onward,Animacion,2020,7.4
+208,Soul,Animacion,2020,8.0
+209,Lightyear,Animacion,2022,6.1
+210,Los Croods 2,Animacion,2020,6.9
+211,El principe olvidado,Animacion,2020,5.1
+212,La familia Addams,Animacion,2019,5.8
+213,Espias con disfraz,Animacion,2019,6.8
+214,Abominable,Animacion,2019,7.0
+215,El parque magico,Animacion,2019,5.9
+216,La oveja Shaun: Granjaguedon,Animacion,2019,6.8
+217,El cascanueces y los cuatro reinos,Animacion,2018,5.5
+218,Smallfoot,Animacion,2018,6.6
+219,Pie pequeno,Animacion,2018,6.6
+220,Un pez llamado Wanda,Comedia,1988,7.5
+221,La vida de Brian,Comedia,1979,8.1
+222,Superbad,Comedia,2007,7.6
+223,¿Que paso ayer?,Comedia,2009,7.7
+224,La gran apuesta,Comedia,2015,7.8
+225,Los cazafantasmas,Comedia,1984,7.8
+226,El gran Lebowski,Comedia,1998,8.1
+227,Un loco suelto en Hollywood,Comedia,1984,7.6
+228,La mascara,Comedia,1994,6.9
+229,Legalmente rubia,Comedia,2001,6.4
+230,Un detective suelto en Hollywood,Comedia,1984,7.3
+231,La pantera rosa,Comedia,1963,7.1
+232,Un principe en Nueva York,Comedia,1988,7.1
+233,El diario de Bridget Jones,Comedia,2001,6.7
+234,American Pie,Comedia,1999,7.0
+235,Una esposa de mentira,Comedia,2011,6.4
+236,Los padres de ella,Comedia,2000,7.0
+237,Un loco viaje al pasado,Comedia,2010,6.4
+238,La terminal,Comedia,2004,7.4
+239,Un jefe en pañales,Comedia,2017,6.3
+240,La proposicion,Comedia,2009,6.7
+241,El reportero: La leyenda de Ron Burgundy,Comedia,2004,7.2
+242,Un zoologico en casa,Comedia,2011,7.1
+243,El diablo viste a la moda,Comedia,2006,6.9
+244,Un espia y medio,Comedia,2016,6.3
+245,La boda de mi mejor amigo,Comedia,1997,6.3
+246,Un gran chico,Comedia,2002,7.1
+247,La familia de mi novia,Comedia,2004,6.3
+248,Un golpe con estilo,Comedia,2017,6.6
+249,La guerra de los Rose,Comedia,1989,6.8
+250,Un funeral de muerte,Comedia,2007,7.4
+251,Tenet,Accion,2020,7.3
+252,Dune,Ciencia ficcion,2021,8.1
+253,No Time to Die,Accion,2021,7.3
+254,Spider-Man: No Way Home,Accion,2021,8.2
+255,The Batman,Accion,2022,7.8
+256,Top Gun: Maverick,Accion,2022,8.3
+257,Everything Everywhere All at Once,Ciencia ficcion,2022,8.0
+258,Black Adam,Accion,2022,6.2
+259,The Whale,Drama,2022,7.7
+260,Glass Onion: A Knives Out Mystery,Comedia,2022,7.2
+261,Avatar: The Way of Water,Ciencia ficcion,2022,7.6
+262,The Fabelmans,Drama,2022,7.6
+263,Turning Red,Animacion,2022,7.0
+264,Encanto,Animacion,2021,7.2
+265,Lightyear,Animacion,2022,6.1
+266,Minions: The Rise of Gru,Animacion,2022,6.6
+267,Black Panther: Wakanda Forever,Accion,2022,6.7
+268,Doctor Strange in the Multiverse of Madness,Ciencia ficcion,2022,6.9
+269,Thor: Love and Thunder,Accion,2022,6.2
+270,The Menu,Thriller,2022,7.2
+271,Don't Look Up,Comedia,2021,7.2
+272,The Adam Project,Ciencia ficcion,2022,6.7
+273,Red Notice,Accion,2021,6.3
+274,The Lost City,Comedia,2022,6.1
+275,Uncharted,Accion,2022,6.3
+276,The Gray Man,Accion,2022,6.5
+277,Nope,Thriller,2022,6.8
+278,Smile,Terror,2022,6.5
+279,Barbie,Comedia,2023,7.0
+280,Oppenheimer,Drama,2023,8.6
+281,The Marvels,Accion,2023,6.1
+282,Guardians of the Galaxy Vol. 3,Ciencia ficcion,2023,8.1
+283,John Wick: Chapter 4,Accion,2023,7.8
+284,The Super Mario Bros. Movie,Animacion,2023,7.1
+285,Elemental,Animacion,2023,7.0
+286,Wish,Animacion,2023,6.2
+287,The Little Mermaid,Fantasia,2023,7.0
+288,Indiana Jones and the Dial of Destiny,Accion,2023,6.7
+289,The Flash,Accion,2023,6.7
+290,Mission: Impossible – Dead Reckoning Part One,Accion,2023,7.8
+291,Killers of the Flower Moon,Drama,2023,8.0
+292,Past Lives,Drama,2023,8.0
+293,The Holdovers,Comedia,2023,8.0
+294,Wonka,Fantasia,2023,7.2
+295,The Creator,Ciencia ficcion,2023,7.0
+296,The Hunger Games: The Ballad of Songbirds & Snakes,Accion,2023,7.2
+297,Wish Dragon,Animacion,2021,7.2
+298,The Mitchells vs. the Machines,Animacion,2021,7.7
+299,Spider-Man: Across the Spider-Verse,Animacion,2023,8.7
+300,El conjuro,Terror,2013,7.5
+301,Actividad paranormal,Terror,2007,6.3
+302,La noche de Halloween,Terror,1978,7.7
+303,El exorcista,Terror,1973,8.1
+304,It (Eso),Terror,2017,7.3
+305,Hereditary,Terror,2018,7.3
+306,El resplandor,Terror,1980,8.4
+307,Un lugar en silencio,Terror,2018,7.5
+308,La bruja,Terror,2015,6.9
+309,Insidious,Terror,2010,6.8
+310,El orfanato,Terror,2007,7.4
+311,La maldición,Terror,2004,6.7
+312,La llamada,Terror,2002,7.1
+313,El aro,Terror,2002,7.1
+314,La cabaña en el bosque,Terror,2011,7.0
+315,El proyecto de la bruja de Blair,Terror,1999,6.5
+316,La monja,Terror,2018,5.3
+317,Siniestro,Terror,2012,6.8
+318,La purga,Terror,2013,5.7
+319,Midsommar,Terror,2019,7.1
